@@ -5,4 +5,4 @@
 ![Pokedex ](Pokedex.png)
 
 Este proyecto fue hecho gracias al video de Leonidas Esteban.
-El extra que yo hice en el proyecto fue utilizar funciones de flecha.
+  El extra que yo hice en el proyecto fue utilizar funciones de flecha.
